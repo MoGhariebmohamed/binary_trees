@@ -28,4 +28,4 @@ binary_tree_t *NewNode;
 	}
 	parent->right = NewNode;
 	return (NewNode);
-}	
+}
